@@ -1,0 +1,18 @@
+.bg-vino{
+    background-color: #980004 !important;
+}
+
+.bg-cian{
+    background-color: #00A8A8 !important;
+}
+
+.img-logo{
+    width: 60px;
+    height: 60px;
+}
+
+#imgUser{
+    width: 45px;
+    height: 45px;
+    border-radius: 100%;
+}
